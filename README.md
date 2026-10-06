@@ -1,3 +1,5 @@
+> **Archived:** This repository is no longer maintained. Our current work is [Charming](https://usecharming.com), the collaborative cloud for apps you build.
+
 # Tambo Template
 
 This is a starter NextJS app with Tambo hooked up to get your AI app development started quickly.
